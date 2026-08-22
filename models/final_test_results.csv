@@ -1,0 +1,2 @@
+model,features,num_features,accuracy,precision,recall,f1,roc_auc
+Random Forest,color_texture_frequency,98,0.8082832331329325,0.8210818307905686,0.7893333333333333,0.8048946295037389,0.8913913431503793
