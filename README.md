@@ -1,4 +1,4 @@
-# Multimodal Fake Content Detection Using Deep Learning
+# Multimodal Fake Content Detection Using Machine Learning
 
 A machine-learning system that detects whether digital images and videos are real or AI-generated/synthetic. The project implements two independent detection pipelines—one for images using handcrafted features and a Random Forest classifier, and one for videos using MobileNetV3-Small deep features and a Linear SVM—along with a validation experiment for weighted multimodal fusion.
 
