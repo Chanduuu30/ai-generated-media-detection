@@ -17,6 +17,7 @@ This repository contains implementations of image and video fake-content detecti
 
 ---
 
+
 ## Key Features
 
 | Feature | Description |
@@ -579,4 +580,4 @@ This project is for research and educational purposes. No license file is includ
 
 ---
 
-*YAVA Internship Submission — Multimodal Fake Content Detection Using Deep Learning*
+*YAVA Internship Submission — Multimodal Fake Content Detection Using Machine Learning*
